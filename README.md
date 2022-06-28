@@ -9,7 +9,7 @@
 - <img align='center' src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.digitalhouse.com/ar&size=16" width="20px"> Graduate Student from **[DigitalHouse](https://www.digitalhouse.com/ar)**
 - 👨🏻‍💻 I’m currently working on **NTT DATA Europe & LATAM**
 - 📚 I am a Bussines Administration Graduated from Universidad de Morón
-- 📚 I’m currently studying software Development at UTN
+- <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.frgp.utn.edu.ar&size=16" width="20px"> I’m currently studying software Development at **[UTN](https://www.frgp.utn.edu.ar/)**
 - 📚 I’m currently learning **NEXT** 🗿
 - 💬 Ask me about Web Development, Science and games
 <br />
