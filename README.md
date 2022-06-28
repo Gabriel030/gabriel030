@@ -6,7 +6,7 @@
 <!-- Tengo que agregar imagen portada -->
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
-- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.digitalhouse.com/ar)**
+- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[DigitalHouse](https://www.digitalhouse.com/ar)**
 - 👨🏻‍💻 I’m currently working on **NTT DATA Europe & LATAM**
 - 📚 I am a Bussines Administration Graduated from Universidad de Morón
 - 📚 I’m currently studying software Development at UTN
