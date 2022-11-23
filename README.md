@@ -11,7 +11,7 @@
 - <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.unimoron.edu.ar&size=16" width="20px"> Bussines Administration Graduate from **[UniMoron](https://www.unimoron.edu.ar/)**
 - <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.frgp.utn.edu.ar&size=16" width="20px"> I’m currently studying software Development at **[UTN](https://www.frgp.utn.edu.ar/)**
 - 💬 Ask me about Web Development, Science and games
-- 💬 Stack to Code : REACT - NODE - PYTHON
+- 💬 Stack to Code : REACT - NODE - Typescript
 <br />
 
 ## 📫 Get In Touch
