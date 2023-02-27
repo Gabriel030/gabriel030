@@ -44,6 +44,11 @@
   <br>
   <div>
     <h2>Celominder</h2>
+    <div align="center">
+      <a href="https://github.com/martinbogado/celo-habitos-dapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=pokedex_api&show_owner=true&theme=slateorange" />
+      </a>
+    </div>
     <div align='center'>
       <div>
         <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi1.jpg" width=49.5%>
@@ -51,13 +56,9 @@
       </div>
       <div>
         <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi3.jpg" width=49.5%>
-        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi4.jpg" width=49.5%>
+        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/ma" width=49.5%>
       </div>
     </div>  
-    <div align="center">
-      <a href="https://github.com/martinbogado/celo-habitos-dapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=pokedex_api&show_owner=true&theme=slateorange" />
-      </a>
-    </div>
+    
   </div>
 
