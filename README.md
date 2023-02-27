@@ -56,7 +56,7 @@
     </div>  
     <div align="center">
       <a href="https://github.com/martinbogado/celo-habitos-dapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=pokedex_apip&show_owner=true&theme=slateorange" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=pokedex_api&show_owner=true&theme=slateorange" />
       </a>
     </div>
   </div>
