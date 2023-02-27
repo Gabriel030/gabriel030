@@ -40,7 +40,7 @@
 &nbsp;
   ## 🔨 Projects I've worked on:
 <details>
-  <summary>👈👈👈</summary>
+  //<summary>:pushpin:</summary>
   <br>
   <div>
     <h2>Pokedex</h2>
@@ -66,7 +66,33 @@
           <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi4.jpg" width=49.5%>
         </a>
       </div>
-    </div>  
-    
+    </div>      
+  </div>
+  <br>
+  <div>
+    <h2>Calendar-app</h2>
+    <div align="center">
+      <a href="https://github.com/Gabriel030/pokedex_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=calendar-backend-v1&show_owner=true&theme=slateorange" />
+      </a>
+    </div>
+    <div align='center'>
+      <div>
+        <a href="https://github.com/Gabriel030/calendar-backend-v1">
+          <img src="https://raw.githubusercontent.com/Gabriel030/calendar-backend-v1/main/calendar1.jpg" width=49.5%>
+        </a>
+        <a href="https://github.com/Gabriel030/calendar-backend-v1">
+          <img src="https://raw.githubusercontent.com/Gabriel030/calendar-backend-v1/main/calendar2.jpg" width=49.5%>
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/Gabriel030/calendar-backend-v1">
+          <img src="https://raw.githubusercontent.com/Gabriel030/calendar-backend-v1/main/calendar3.jpg" width=49.5%>
+        </a>
+        <a href="https://github.com/Gabriel030/pokedex_api">
+          <img src="https://github.com/Gabriel030/calendar-backend-v1/blob/main/calendar4.jpg" width=49.5%>
+        </a>
+      </div>
+    </div>      
   </div>
 
