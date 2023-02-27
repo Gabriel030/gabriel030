@@ -46,12 +46,12 @@
     <h2>Celominder</h2>
     <div align='center'>
       <div>
-        <img src="https://user-images.githubusercontent.com/85038226/173673659-d98ef6c0-3c11-4bf1-ab7e-a34a5682fed2.png" width=49.5%>
-        <img src="https://user-images.githubusercontent.com/85038226/183421194-e9f2cb49-a248-48d5-bedb-10ad0bf235ff.png" width=49.5%>
+        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi1.jpg" width=49.5%>
+        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi2.jpg" width=49.5%>
       </div>
       <div>
-        <img src="https://user-images.githubusercontent.com/85038226/173674133-7d86d989-ef84-4d72-9c5d-27e7841ec66f.png" width=49.5%>
-        <img src="https://user-images.githubusercontent.com/85038226/173674700-d95bab45-a0e5-4663-89fb-4c2e18e46fdd.png" width=49.5%>
+        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi3.jpg" width=49.5%>
+        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/ma" width=49.5%>
       </div>
     </div>  
     <div align="center">
