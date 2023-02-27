@@ -37,10 +37,10 @@
 <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img width='48px'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
-
+&nbsp;
   ## 🔨 Projects I've worked on:
 <details>
- <!-- <summary>:pushpin:</summary> -->
+ <summary>:pushpin:</summary>
   <br>
   <div>
     <h2>Pokedex</h2>
@@ -89,7 +89,7 @@
         <a href="https://github.com/Gabriel030/calendar-backend-v1">
           <img src="https://raw.githubusercontent.com/Gabriel030/calendar-backend-v1/main/calendar3.jpg" width=49.5%>
         </a>
-        <a href="https://github.com/Gabriel030/pokedex_api">
+        <a href="https://github.com/Gabriel030/calendar-backend-v1">
           <img src="https://github.com/Gabriel030/calendar-backend-v1/blob/main/calendar4.jpg" width=49.5%>
         </a>
       </div>
