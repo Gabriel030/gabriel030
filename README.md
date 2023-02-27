@@ -51,7 +51,7 @@
       </div>
       <div>
         <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi3.jpg" width=49.5%>
-        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/ma" width=49.5%>
+        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi4.jpg" width=49.5%>
       </div>
     </div>  
     <div align="center">
