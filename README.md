@@ -59,8 +59,12 @@
         </a>
       </div>
       <div>
-        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi3.jpg" width=49.5%>
-        <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi4.jpg" width=49.5%>
+        <a href="https://github.com/Gabriel030/pokedex_api">
+          <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi3.jpg" width=49.5%>
+        </a>
+        <a href="https://github.com/Gabriel030/pokedex_api">
+          <img src="https://raw.githubusercontent.com/Gabriel030/pokedex_api/main/pokeapi4.jpg" width=49.5%>
+        </a>
       </div>
     </div>  
     
