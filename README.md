@@ -100,7 +100,7 @@
   
    <br>
   <div>
-    <h2>Journal-app</h2>
+    <h2>GranCerdo-Game</h2>
     <div align="center">
       <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=granCerdoTP-UTN&show_owner=true&theme=slateorange" />
