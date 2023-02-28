@@ -72,7 +72,7 @@
   <div>
     <h2>Calendar-app</h2>
     <div align="center">
-      <a href="https://github.com/Gabriel030/pokedex_api">
+      <a href="https://github.com/Gabriel030/calendar-backend-v1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=calendar-backend-v1&show_owner=true&theme=slateorange" />
       </a>
     </div>
