@@ -39,8 +39,7 @@
 
 &nbsp;
   ## 🔨 Projects I've worked on:
-<details>
- <summary>:pushpin:</summary>
+
   <br>
   <div>
     <h2>Pokedex</h2>
