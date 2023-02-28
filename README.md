@@ -102,26 +102,28 @@
   <div>
     <h2>Journal-app</h2>
     <div align="center">
-      <a href="https://github.com/Gabriel030/Journal-app-react">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=Journal-app-react&show_owner=true&theme=slateorange" />
+      <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=granCerdoTP-UTN&show_owner=true&theme=slateorange" />
       </a>
     </div>
     <div align='center'>
       <div>
-        <a href="https://github.com/Gabriel030/Journal-app-react">
-          <img src="https://raw.githubusercontent.com/Gabriel030/Journal-app-react/main/journal1.jpg" width=49.5%>
+        <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
+          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/MenuPrincipal.png" width=49.5%>
         </a>
         <a href="https://github.com/Gabriel030/Journal-app-react">
-          <img src="https://raw.githubusercontent.com/Gabriel030/Journal-app-react/main/journal2.jpg" width=49.5%>
+          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/seleccionDePrimerLanzador.png" width=49.5%>
         </a>
       </div>
       <div>
-        <a href="https://github.com/Gabriel030/Journal-app-react">
-          <img src="https://raw.githubusercontent.com/Gabriel030/Journal-app-react/main/journal3.jpg" width=49.5%>
+        <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
+          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/rondaJugada.png" width=49.5%>
         </a>
-        <a href="https://github.com/Gabriel030/Journal-app-react">
-          <img src="https://raw.githubusercontent.com/Gabriel030/Journal-app-react/main/journal4.jpg" width=49.5%>
+        <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
+          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/calculoGanador.png" width=49.5%>
         </a>
       </div>
     </div>      
   </div>
+  
+  
