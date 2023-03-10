@@ -17,7 +17,7 @@
 ## 📫 Get In Touch
 <a href="https://www.linkedin.com/in/gabriel-ruben-antonietti/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:gabril.r.antonietti@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a>
+<a href="mailto:gabriel.r.antonietti@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a>
 &nbsp; &nbsp;
 
 
