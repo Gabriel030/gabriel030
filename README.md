@@ -122,35 +122,7 @@
         </a>
       </div>
     </div>      
-  </div>
+  </div>  
   
-  
-   <br>
-  <div>
-    <h2>GranCerdo-Game</h2>
-    <div align="center">
-      <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=granCerdoTP-UTN&show_owner=true&theme=slateorange" />
-      </a>
-    </div>
-    <div align='center'>
-      <div>
-        <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
-          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/MenuPrincipal.png" width=49.5%>
-        </a>
-        <a href="https://github.com/Gabriel030/Journal-app-react">
-          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/seleccionDePrimerLanzador.png" width=49.5%>
-        </a>
-      </div>
-      <div>
-        <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
-          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/rondaJugada.png" width=49.5%>
-        </a>
-        <a href="https://github.com/Gabriel030/granCerdoTP-UTN">
-          <img src="https://raw.githubusercontent.com/Gabriel030/granCerdoTP-UTN/main/calculoGanador.png" width=49.5%>
-        </a>
-      </div>
-    </div>      
-  </div>
   
   
