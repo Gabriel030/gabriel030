@@ -101,7 +101,7 @@
     <h2>Journal-appe</h2>
     <div align="center">
       <a href="https://github.com/Gabriel030/Journal-app-react">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=granCerdoTP-UTN&show_owner=true&theme=slateorange" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel030&repo=Journal-app-react-UTN&show_owner=true&theme=slateorange" />
       </a>
     </div>
     <div align='center'>
