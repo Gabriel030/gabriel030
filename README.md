@@ -6,12 +6,12 @@
 <!-- Tengo que agregar imagen portada -->
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
-- 👨🏻‍💻 I’m currently working on **NTT DATA Europe & LATAM** as **Software Engineer**
+- 👨🏻‍💻 I’m currently working on **Mercado Libre** as **Backend Software Engineer**
 - <img align='center' src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.digitalhouse.com/ar&size=16" width="20px"> Graduate Student from **[DigitalHouse](https://www.digitalhouse.com/ar)**
 - <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.unimoron.edu.ar&size=16" width="20px"> Bussines Administration Graduate from **[UniMoron](https://www.unimoron.edu.ar/)**
 - <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.frgp.utn.edu.ar&size=16" width="20px"> I’m currently studying software Development at **[UTN](https://www.frgp.utn.edu.ar/)**
 - 💬 Ask me about Web Development, Science and games
-- 💬 Stack to Code : REACT - NODE - Typescript
+- 💬 Stack to Code : Java - SpringBoot - SQL - Javascript
 <br />
 
 ## 📫 Get In Touch
@@ -24,6 +24,7 @@
 
 ## 👨🏻‍💻 Languages & Tools I use:
 
+<a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://icons8.com/icon/13679/java.png"/></a>
 <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank" title="HTML5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
