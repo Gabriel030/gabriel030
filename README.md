@@ -1,7 +1,7 @@
 
 
 <h1>Hi! I'm Gabriel Antonietti <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Backend+Developer+at+Mercado+Libre+!+!+!;Web3+enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Backend+Developer;Mercado+Libre+Lover;Web3+enthusiast">
 
 <!-- Tengo que agregar imagen portada -->
 ### About me:
