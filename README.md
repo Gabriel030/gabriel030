@@ -26,13 +26,14 @@
 
 <a href="https://www.java.com/es/" target="_blank" title="Java"><img src="https://img.icons8.com/?size=48&id=13679&format=png"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot"><img src="https://img.icons8.com/?size=48&id=90519&format=png"/></a>
+<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/?size=48&id=qGUfLiYi1bRN&format=png"/></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="48px" src="https://s2.qwant.com/thumbr/0x0/4/c/51a9ba451825929e69f00ddaa26db870683cbf42daec0ccaf4dc9896b0fc8f/next-logo.png?u=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1607554385%2Frepositories%2Fnext-js%2Fnext-logo.png&q=0&b=1&p=0&a=0"/></a>
 
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.icons8.com/?size=48&id=qGUfLiYi1bRN&format=png"/></a>
+
 <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a href="https://www.mongodb.com/es" target="_blank" title="MongoDB"><img src="https://img.icons8.com/?size=48&id=74402&format=png"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img width='48px'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
