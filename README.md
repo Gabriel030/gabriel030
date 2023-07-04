@@ -1,12 +1,12 @@
 
 
 <h1>Hi! I'm Gabriel Antonietti <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Backend+Developer;Web3+enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Backend+Developer+at+Mercado+Libre;Web3+enthusiast">
 
 <!-- Tengo que agregar imagen portada -->
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
-- 👨🏻‍💻 I’m currently working on **Mercado Libre** as **Backend Software Engineer**
+- 👨🏻‍💻 I’m currently working at **Mercado Libre** as **Backend Software Engineer**
 - <img align='center' src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.digitalhouse.com/ar&size=16" width="20px"> Graduate Student from **[DigitalHouse](https://www.digitalhouse.com/ar)**
 - <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.unimoron.edu.ar&size=16" width="20px"> Bussines Administration Graduate from **[UniMoron](https://www.unimoron.edu.ar/)**
 - <img align='center' src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.frgp.utn.edu.ar&size=16" width="20px"> I’m currently studying software Development at **[UTN](https://www.frgp.utn.edu.ar/)**
